@@ -1,0 +1,27 @@
+header, footer {
+    background-color: #059633;
+    color: #ddd;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif; 
+}
+assets {
+    font-weight: bold;
+}
+#H2 {
+    color: navy;
+    Font-weight: bold;
+}
+nav {
+    background-color: #222;
+}
+
+section, article {
+    padding: 10px;
+    background-color: #eee;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
