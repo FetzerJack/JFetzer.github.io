@@ -1,9 +1,8 @@
 header, footer {
-    background-color: #059633;
-    color: #ddd;
+    background-color: #ffffff;
+    color: #7b7b7b;
     text-align: center;
-    font-weight: bold;
-    font-family: 'Avenir', Times, serif; 
+    font-family: 'Verdana', sans-serif; 
 }
 assets {
     font-weight: bold;
