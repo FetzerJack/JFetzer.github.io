@@ -24,17 +24,3 @@ img {
     height: 100%;
     width: 100%;
 }
-
-#body {
-         <header class="container=fluid">        
-        <h1>I am Jack Fetzer. A badass coder!</h1>
-        </header>
-        <nav class="container-fluid">
-            <ul class="nav navbar-inverse navbar-nav">
-                <li><a href="index.html">Home</a></li>
-                <li class="active"><a href="contact.html">Contact</a></li>
-                <li><a href="socialmedia.html">Social Media</a></li>
-                <li><a href="license.html">License</a></li>
-            </ul>
-        </nav>
-}
