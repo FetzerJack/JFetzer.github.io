@@ -3,7 +3,7 @@ header, footer {
     color: #ddd;
     text-align: center;
     font-weight: bold;
-    font-family: 'Times New Roman', Times, serif; 
+    font-family: 'Avenir', Times, serif; 
 }
 assets {
     font-weight: bold;
@@ -22,6 +22,6 @@ section, article {
 }
 
 img {
-    height: 100%;
-    width: 100%;
+    height: 50%;
+    width: 50%;
 }
