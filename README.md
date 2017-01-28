@@ -1,4 +1,4 @@
-# JFetzer.github.io
+# fetzerjack.github.io
 
 1. This application is a simple website design.
 2. To install, just launch the index.html and your of to the races.
