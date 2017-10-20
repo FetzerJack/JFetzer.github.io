@@ -1,6 +1,6 @@
 header, footer {
-    background-color: grey;
-    color: black;
+    background-color: #3d3d3d;
+    color: white;
     text-align: center;
     font-family: 'Calibri', sans-serif; 
 }
@@ -8,19 +8,23 @@ assets {
     font-weight: bold;
 }
 #H2 {
-    color: grey;
+    color: white;
     Font-weight: bold;
 }
 nav {
-    background-color: #222;
+    background-color: #3d3d3d;
 }
 
 section, article {
     padding: 10px;
-    background-color: #eee;
+    
 }
 
-img {
-    height: 50%;
-    width: 50%;
+body {
+    background-image: url("red_background.jpg");
+    color:white;
+}
+
+a {
+    color:white;
 }
