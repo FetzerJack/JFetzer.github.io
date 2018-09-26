@@ -6,7 +6,7 @@ header {
     top: 0;
 }
 
-header a {
+header li {
     float: left;
     display: inline-block;
     text-align: center;
@@ -14,8 +14,7 @@ header a {
 }
 
 header, footer {
-    background-color: #3d3d3d;
-    color: white;
+    color: blue;
     text-align: center;
     font-family: 'Calibri', sans-serif; 
 }
