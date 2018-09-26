@@ -1,6 +1,7 @@
 header {
     position: fixed;
     z-index: 1;
+    text-align: center;
 }
 
 header, footer {
