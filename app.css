@@ -1,8 +1,16 @@
 header {
+    overflow: hidden;
     position: fixed;
     z-index: 1;
+    width: 100%;
+    top: 0;
+}
+
+header a {
+    float: left;
+    display: inline-block;
     text-align: center;
-    padding: 10px 16px;
+    padding: 14px 16px;
 }
 
 header, footer {
