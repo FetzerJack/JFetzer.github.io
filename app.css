@@ -2,6 +2,7 @@ header {
     position: fixed;
     z-index: 1;
     text-align: center;
+    padding: 10px 16px;
 }
 
 header, footer {
