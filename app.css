@@ -10,6 +10,7 @@ header, footer {
     color: blue;
     text-align: center;
     font-family: 'Calibri', sans-serif; 
+    backgroud-color: #3d3d3d;
 }
 assets {
     font-weight: bold;
