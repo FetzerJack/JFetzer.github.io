@@ -1,5 +1,7 @@
 header {
-      text-align: center;  
+      text-align: center;
+      border: solid;
+      border-width: thin;
 }
 
 nav {
@@ -11,6 +13,7 @@ nav {
       top: 0;
       width: 100%;
       background-color: #e5f0f5;
+      border-left: 20px solid #3d3d3d;
 }
 
 nav a {
@@ -22,7 +25,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #555;
+    background-color: #3d3d3d;
     color: white;
     text-decoration: none;
 }
