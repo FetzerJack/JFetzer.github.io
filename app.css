@@ -2,4 +2,5 @@ nav {
   width: 100%; //width should be a percentage for responsiveness
   height: 38px; //height should be px. Adjust to your liking
   background-color: #0b98de;//hex color code should be used
+  color: black;
 }
