@@ -1,6 +1,28 @@
 nav {
-  width: 100%; //width should be a percentage for responsiveness
-  height: 38px; //height should be px. Adjust to your liking
-  background-color: #0b98de;//hex color code should be used
-  color: black;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: white;
+      position: sticky;
+      top: 0;
+      width: 100%;
+      background-color: #e5f0f5;
+      text-align: center;
+}
+
+nav a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    border: 1px;
+    color: black;
+    text-decoration: none;
+    *//fix text from underlining*//
+}
+
+nav a:hover {
+    background-color: #555;
+    color: white;
+
 }
