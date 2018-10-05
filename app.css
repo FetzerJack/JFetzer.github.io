@@ -1,28 +1,32 @@
+header {
+      text-align: center;  
+}
+
 nav {
       margin: 0;
-      padding: 0;
+      padding: 0px 0px;
       overflow: hidden;
       background-color: white;
       position: sticky;
       top: 0;
       width: 100%;
       background-color: #e5f0f5;
-      text-align: center;
 }
 
 nav a {
     float: left;
     display: block;
     text-align: center;
-    padding: 14px 16px;
-    border: 1px;
+    padding: 16px 18px;
     color: black;
-    text-decoration: none;
-    *//fix text from underlining*//
 }
 
 nav a:hover {
     background-color: #555;
     color: white;
+    text-decoration: none;
+}
 
+.open {
+    background-color: lightblue;
 }
