@@ -1,4 +1,4 @@
-header {
+header, footer {
     text-align: center;
 }
 
@@ -43,4 +43,19 @@ nav a:hover {
 
 .open {
     background-color: lightblue;
+}
+
+footer {
+    width: 100%;
+    background-color: #e5f0f5;
+    display: inline-block;
+}
+
+footer h5 {
+  margin: 4px 0px;
+  padding: 2px;
+  display: inline-block;
+  background-color: lightblue;
+  border: medium solid lightblue;
+  border-radius: 10px;
 }
