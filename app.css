@@ -1,12 +1,15 @@
 header {
-      text-align: center;
-      border: solid;
-      border-width: thin;
+    text-align: center;
 }
 
 header h1 {
     margin: 8px 0px;
+    padding: 5px 5px;
     display: inline-block;
+    border: solid;
+    border-width: medium;
+    border-radius: 10px;
+    border-color: #3d3d3d;
 }
 
 nav {
@@ -18,7 +21,10 @@ nav {
       top: 0;
       width: 100%;
       background-color: #e5f0f5;
-      border-left: 20px solid #3d3d3d;
+      border-left: 10px solid #3d3d3d;
+      border-right: 10px solid #3d3d3d;
+      border-bottom: thin solid #3d3d3d;
+      border-top: thin solid #3d3d3d;
 }
 
 nav a {
