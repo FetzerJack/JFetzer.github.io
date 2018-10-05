@@ -4,6 +4,11 @@ header {
       border-width: thin;
 }
 
+header h1 {
+    margin: 8px 0px;
+    display: inline-block;
+}
+
 nav {
       margin: 0;
       padding: 0px 0px;
