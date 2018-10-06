@@ -33,6 +33,7 @@ nav a {
     text-align: center;
     padding: 28px 18px;
     color: black;
+    font-size: 1.5rem;
 }
 
 nav a:hover {
