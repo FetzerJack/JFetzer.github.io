@@ -57,18 +57,22 @@ nav a:hover {
 
 footer {
     width: 100%;
-    background-color: #e5f0f5;
+    background-color: lightgrey;
     display: inline-block;
     text-align: center;
 }
 
 footer h5 {
     margin: 4px 0px;
-    padding: 2px;
+    padding: 2px 50px;
     display: inline-block;
-    background-color: lightblue;
-    border: medium solid lightblue;
+    background-color: darkred;
+    border: medium solid darkred;
+    border: solid;
+    border-width: medium;
     border-radius: 10px;
+    border-color: #3d3d3d;
+    color: white;
 }
 
 hr {
