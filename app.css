@@ -9,7 +9,9 @@
     border-radius: 10px;
     border-color: #3d3d3d;
     font-size: 30px;
-    font-family: fantasy;
+    font-family: inherit;
+    background-color: darkblue;
+    color: white;
 }
 
 nav {
@@ -20,7 +22,7 @@ nav {
       position: sticky;
       top: 0;
       width: 100%;
-      background-color: #e5f0f5;
+      background-color: lightgrey;
       border-left: 10px solid #3d3d3d;
       border-right: 10px solid #3d3d3d;
       border-bottom: thin solid #3d3d3d;
@@ -36,6 +38,12 @@ nav a {
     font-size: 2rem;
 }
 
+img {
+      margin-right: 10px;
+      max-width: 145;
+      float: right;
+}
+
 nav a:hover {
     background-color: #3d3d3d;
     color: white;
@@ -43,7 +51,8 @@ nav a:hover {
 }
 
 .open {
-    background-color: lightblue;
+    background-color: darkred;
+    color: white;
 }
 
 footer {
