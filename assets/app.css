@@ -109,6 +109,26 @@ nav a:hover {
     margin-left: 10%;
 }
 
+.articles-page h6 {
+    font-size: 35px;
+    border-bottom: 1px solid #555555;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    margin-bottom: 75px;
+    line-height: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.articles-page {
+    color: #003366;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    float: center;
+    text-align: center;
+}
+
 .article h2{
     color: black;
     text-align: center;
